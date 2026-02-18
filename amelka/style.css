@@ -13,7 +13,10 @@ body {
 .m3-card {
     transition: all 0.5s ease;
 }
-
+.px-5{
+    padding-left: 2.5rem !important;
+    pDDING-right: 2.5rem !important;
+}
 /* Serce 3D */
 .heart-wrapper {
     perspective: 1000px;
@@ -97,5 +100,6 @@ body {
     0%, 100% { transform: scale(1) rotate(-45deg); }
     20% { transform: scale(1.15) rotate(-45deg); }
 }
+
 
 .timer-item span { font-variant-numeric: tabular-nums; }
