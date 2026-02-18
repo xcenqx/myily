@@ -15,7 +15,7 @@ body {
 }
 .px-5{
     padding-left: 2.5rem !important;
-    pDDING-right: 2.5rem !important;
+    padding-right: 2.5rem !important;
 }
 /* Serce 3D */
 .heart-wrapper {
@@ -103,3 +103,4 @@ body {
 
 
 .timer-item span { font-variant-numeric: tabular-nums; }
+
